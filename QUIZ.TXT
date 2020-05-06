@@ -1,0 +1,39 @@
+***  Questions and options  ***
+
+q1:  Hepatitis is the inflammation of which part of the body?
+     option1:  Lungs
+     option2:  Kidney
+     option3:  Liver
+     option4:  Bladder
+
+q2:  In human body, aorta carries blood from which organ?
+     option1: Capillary 
+     option2: Heart     
+     option3: Liver
+     option4: Pulmonary Vein   
+
+q3:  One of these is not a symptom of COVID-19:
+     option1: Stooling
+     option2: Fever
+     option3: Cough     
+     option4: Difficulty in breathing 
+
+q4:  How many pairs of ribs does an adult human have?
+     option1: 12     
+     option2: 10   
+     option3: 6     
+     option4: 11  
+
+q5:   Medically, Septicaemia is more commonly known as?
+      option1:  Blood Overflow   
+      option2:  Food Poisoining  
+      option3:  Blood Shortage    
+      option4: Blood Poisoining
+         
+
+     
+      
+     
+
+     
+
